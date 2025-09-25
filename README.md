@@ -1,16 +1,21 @@
-## Hi there 👋
+### Halo! Nama saya Marsel 👋
 
-<!--
-**marselx29/marselx29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya seorang *developer* yang senang membangun solusi digital dan mengotomatisasi pekerjaan. Saya percaya bahwa teknologi dapat menyederhanakan kehidupan sehari-hari dan membuat banyak hal lebih efisien.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Statistik GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marselx29&show_icons=true&theme=onedark&hide_border=true&count_private=true)
+
+---
+
+### 🚀 Bahasa dan Tools
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marselx29&layout=compact&theme=onedark&hide_border=true)
+
+---
+
+### 🤝 Mari Terhubung
+
+* **Email:** marsellilipory29@gmail.com
