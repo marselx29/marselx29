@@ -12,7 +12,7 @@ Saat ini saya terus mengembangkan kemampuan di bidang pengembangan perangkat lun
 
 ## 📊 Statistik GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marselx29\&show_icons=true\&theme=onedark\&hide_border=true\&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marselx29&show_icons=true&theme=tokyonight)
 
 ---
 
